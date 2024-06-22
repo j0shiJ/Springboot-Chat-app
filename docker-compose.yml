@@ -20,5 +20,5 @@ services:
       - ME_CONFIG_MONGODB_ADMINPASSWORD=jayesh
       - ME_CONFIG_MONGODB_SERVER=mongodb
 volumes:
-  mongo: {}
+  mongo: { }
 
